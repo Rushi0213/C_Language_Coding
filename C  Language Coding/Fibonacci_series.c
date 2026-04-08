@@ -3,16 +3,16 @@
 #include<stdio.h>
 int main()
 {
-	int a=1;
-	int b=2;
-	int c,i;
+	int b=1;
+	int c=2;
+	int d,i;
 	
 	for(i=1;i<11;i++)
 	{
-	   printf(" %d",a);
-		c=a+b;
-		 a=b;
-	   	 b=c;
+	   printf(" %d",b);
+		d=b+c;
+		 b=c;
+	   	 c=d;
 		
 	}
 	
