@@ -7,9 +7,9 @@ int main()
 	int c=2;
 	int d,i;
 	
-	for(i=1;i<11;i++)
+	for(i=1;i<11;i++)// use this for print  0 to n number
 	{
-	   printf(" %d",b);
+	   printf(" %d",b);// this is print here becuase we want first value of input
 		d=b+c;
 		 b=c;
 	   	 c=d;
