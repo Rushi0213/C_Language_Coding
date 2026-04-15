@@ -13,7 +13,7 @@
 //		i++;
 //	}
 //	
-//	while(i<=10);
+//	while(i<=10);// this is used for first execute one line then come to condition
 //}
 		
 
@@ -51,7 +51,7 @@ int main()
 		i++;
 	}
 	
-	while(i<n);
+	while(i<n); // this is  show first run one time  then come to condition
 }	
 			
 	
